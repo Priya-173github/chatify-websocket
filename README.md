@@ -14,7 +14,7 @@ This project demonstrates how to create a lightweight chat server that handles m
 ---
 
 ## 🛠️ Requirements
-- **Java 21** (or update `pom.xml` to match your installed JDK version)  
+- **Java 18** (or update `pom.xml` to match your installed JDK version)  
 - **Maven 3.9+**
 
 ---
